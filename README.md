@@ -9,8 +9,8 @@ user-web 8080
 
 cart.gmall.com 
 manage.gmall.com 
-8071
-8081
+manage-service 8071
+manage-web 8081
 
 www.gmall.com 
 passport.gmall.com 
